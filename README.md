@@ -1,6 +1,6 @@
 # pyKinectV2
 ## Prerequirement
-1. Download anaconda
+1. Install anaconda: https://hackmd.io/izZwHUINStSaB2Eb7LiT1g
 2. pip install comtypes
 3. pip install pykinect2
 
